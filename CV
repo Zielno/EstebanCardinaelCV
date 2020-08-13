@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<!--CV-->
+<!--CSS-->
+	<style type="text/css">
+		html{background-image: url(https://alchimistedelajoie.com/wp-content/uploads/2018/12/business-camera-coffee-1509428-reduit-1080x675.jpg);background-size: cover;}
+		body{}
+		#CV{}
+		#motiv{}
+		#wrap{background-color: #d0d0d491;border-radius: 5px;border-color: black 2px;border: solid black 2px;margin-left: auto; margin-right: auto; width: 21cm; height: 29,7cm; }
+		#content{padding: 10px;filter: drop-shadow(2px 4px 6px black);}
+		#moi{}
+		#moi img{width: 120px; height: 145px;padding-right: 10px;}
+		#moi table{}
+		#moi td{}
+		#voyages{margin-top: 16px;}
+		#creds{text-align: center;color: white;margin-bottom: 10px;font-style: italic;}
+		h1{text-align: center;margin: 0px;background-color: #51badea1; border-bottom: solid 1px black;}
+		h2{color: white;margin-bottom: 0px;padding-top: 10px;filter: drop-shadow(4px 3px 1px black);}
+		hr{border-color: #4c4848; border-style: dashed;}
+		#Compétances td{padding-right: 50px;}
+		#Compétances table{border-spacing: 10px;}
+	</style>
+<!--FIN CSS-->
+
+	<body>
+<!--CV-->
+
+			<div id="wrap">
+		<H1>CURRICULUM VITAE</H1>
+		<div id="content">
+		<div id="moi">
+			<table>
+			<td><div id="photo"><img src="https://i.imgur.com/V0Zu17Y.png"></div></td>
+			<td><p>CARDINAEL Esteban<br>
+			42 bis rue Leon Gambetta<br>
+			59790 Ronchin<br>
+			06.66.58.13.72<br>
+			esteban05599@hotmail.fr<br>
+			Permis B + Véhicule<br></p></td>
+			</table>
+		</div>
+		<H2>Compétances et qualités professionnelles</H2><hr>
+		<div id="Compétances">
+			<table>
+			<tr>
+	<ul>
+		<td><li>Sécuriser un périmètre d'intervention</li></td>
+		<td><li>Savoir préparer le matériel adapté</li></td>
+		</tr>
+		<tr>
+		<td><li>Aménager des zones de stockage</li></td>
+		<td><li>Surveiller des lieux, biens et effectuer des rondes de prévention et de détection des risques</li></td>
+		</tr>
+		<tr>
+		<td><li>Savoir faire preuve de dextérité</li></td>
+		<td><li>Savoir faire preuve d'adaptabilité</li></td>
+		</tr>
+		<tr>
+		<td><li>Autonome et Polyvalent</li></td>
+		<td><li>Sens du relationnel</li></td>
+	</ul>
+			</tr>
+			</table>
+			</div>
+		<H2>Expériences professionnelles</H2><hr>
+		<div id="Expériences">
+		<ul>
+		<li>De 2013 à 2014 - Solmeca Sté de dallage industriel à Anzin</li>
+		Manoeuvre bâtiment
+		<br><br>
+		<li>De Mars à Avril 2012 - Centre commercial Auchan V2 à Villeneuve-d'Ascq</li>
+		Agent de prévention sécurité et incendie (stagiaire)
+		<br><br>
+		<li>De Novembre à Décembre 2011 - Aéroport de Lille-Lesquin</li>
+		Agent de sûreté aéroportuaire (stagiaire)
+		<br><br>
+		<li>Janvier 2011 - Poste de Police Municipale à Ronchin</li>
+		Agent de Police Municipale (stagiaire)
+		<br><br></ul>
+		</div>
+		<H2>Formations</H2><hr>
+		<div id="Formations">
+		<ul>
+		<li>2012 CAP Agent de sécurité - Lycée profesionnel des Vertes Feuilles à Saint-André-Lez-Lille</li><br>
+		<li>2011 Brevet de Secourisme Sauveteur du Travail - Lycée profesionnel des Vertes Feuilles à Saint-André-Lez-Lille</li><br>
+		<li>2010 Brevet des collèges - Collège Jean Mermoz à Faches-Thumesnil</li><br>
+		</ul>
+		</div>
+		<H2>Informations complémentaires</H2><hr>
+		<div id="Voyages">
+		Voyages : Europe (Luxembourg, Grande-Bretagne, Portugal, Italie, Suisse et Espagne)
+		<br><br>
+		Linguistique : Français(Maternel), Anglais(Notions)
+		</div><br>
+	</div>
+	</div>
+	</body>
+	<div id="creds">
+		© Touts droits réservés Cardinael Esteban 2020.
+	</div>
+</html>
